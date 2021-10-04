@@ -1,7 +1,8 @@
 test readme
 - [Endpoint](#endpoints)
 
-<img width="1229" alt="Screenshot 2021-06-16 at 9 36 17 PM" src="https://user-images.githubusercontent.com/60310039/135843104-9dc93d67-d2a8-4d6f-9580-21dbb8159302.png">
+<img width="2" alt="Screenshot 2021-09-23 at 6 34 01 PM" src="https://user-images.githubusercontent.com/60310039/135845150-d9cff45b-522c-4a23-a1fe-759b5338cf2f.png">
+
 
 ![image](https://user-images.githubusercontent.com/60310039/135843381-06ce8ce0-6168-46df-adb4-800086bdfff0.png)
 
